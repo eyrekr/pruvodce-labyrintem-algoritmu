@@ -1,0 +1,1 @@
+# pruvodce-labyrintem-algoritmu
